@@ -31,7 +31,7 @@
 
 ### 🌐 Let's Connect  
 <p align="center">
-  <a href="[YourLinkedInURL](https://www.linkedin.com/in/pranav-s-345929247/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/pranav-s-345929247/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="YourPortfolioURL"><img src="https://img.shields.io/badge/-Portfolio-red?style=flat&logo=web" /></a>
   <a href="mailto:psholla04@gmail.com"><img src="https://img.shields.io/badge/-Email-yellow?style=flat&logo=gmail" /></a>
 </p>
